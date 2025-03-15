@@ -1,0 +1,4 @@
+2025-03-14 19:47:34.419 | INFO     | __main__:<module>:8 - Brute Force Detection System Started...
+2025-03-14 19:48:34.445 | ERROR    | utils:get_failed_logins:17 - Error reading log file: [Errno 2] No such file or directory: '/var/log/auth.log'
+2025-03-14 19:49:34.476 | ERROR    | utils:get_failed_logins:17 - Error reading log file: [Errno 2] No such file or directory: '/var/log/auth.log'
+2025-03-14 19:50:34.500 | ERROR    | utils:get_failed_logins:17 - Error reading log file: [Errno 2] No such file or directory: '/var/log/auth.log'
